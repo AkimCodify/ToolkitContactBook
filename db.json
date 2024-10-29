@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "name": "Akim",
+      "number": 996706345645,
+      "who": "friend",
+      "called": false,
+      "id": 1
+    },
+    {
+      "name": "Mom",
+      "number": 996707345322,
+      "who": "family",
+      "called": false,
+      "id": 2
+    },
+    {
+      "name": "Polina",
+      "number": 996585674987,
+      "who": "classmate",
+      "called": false,
+      "id": 3
+    },
+    {
+      "name": "Dad",
+      "number": 996239498223,
+      "who": "family",
+      "called": false,
+      "id": 4
+    }
+  ]
+}
